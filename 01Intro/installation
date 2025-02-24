@@ -1,0 +1,7 @@
+we can chek typescript website 
+
+npm install -g typescript
+or 
+--save-dev   
+
+npm install typescript --save-dev

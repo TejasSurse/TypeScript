@@ -1,0 +1,43 @@
+- ts is a superset of js
+Everything available in js is available in ts and many things are not available in ts
+
+It allows you to write js code in more readable way
+and also it allows you to write code in a more type safe way
+and causes less bugs and errors
+
+All the code in ts is compiled to js
+
+
+Typescript is not about reinventing javascript
+only use Typescript for type safety 
+
+its all about type safety
+
+type safety - 
+we know that js allows us to do 2 + "2" = "22" it dosent stop you to calculate mismatched types 
+
+ts allows you to stop this behavior 
+
+
+What Typescript Does :
+    static checking
+    - it already present in java and c#
+    - it is a compile time check
+    Ts is just for static checking
+    Analyze the code as we type. That's it 
+    in ts we write more lines of code than js 
+
+
+ts is for extension
+
+tsx is similar to jsx but it is for typescript
+
+how ts works 
+
+ts = (compiled or transpiled) = js 
+
+ts is a developement toll - your project still runs js 
+
+it helps you to write better code with less errors and better to scale
+
+js madhe code lihilya ver aplay la to code wrong ahe asa sangat nahi pn ts madhe lihile var te lihita lihita detect karta variable define nahi ahe asa 

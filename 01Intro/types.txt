@@ -1,0 +1,25 @@
+Types 
+
+Number
+String 
+Boolean 
+
+Null
+undefined
+void
+
+object 
+arrays 
+tupes 
+...
+
+Any - Keyword - Any not recommended all time beacuse it kills difference between js and ts
+
+Never 
+Unknown
+
+Syntac
+
+let variableName : type = value
+
+type - alwasy lowercase 
